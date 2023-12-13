@@ -1,0 +1,60 @@
+{
+  "register": [
+    {
+      "user": "user2",
+      "pwd": "Haslo!23",
+      "id": 1
+    },
+    {
+      "user": "user",
+      "pwd": "Haslo!23",
+      "id": 2
+    },
+    {
+      "user": "user",
+      "pwd": "Haslo!23",
+      "id": 3
+    },
+    {
+      "user": "user3",
+      "pwd": "Haslo!23",
+      "id": 4
+    },
+    {
+      "user": "dwawda",
+      "pwd": "Haslo!23",
+      "id": 5
+    },
+    {
+      "user": "user",
+      "pwd": "Haslo!23",
+      "id": 6
+    },
+    {
+      "user": "user",
+      "pwd": "Haslo!23",
+      "id": 7
+    },
+    {
+      "user": "user",
+      "pwd": "Haslo!23",
+      "id": 8
+    },
+    {
+      "user": "user",
+      "pwd": "Haslo!23",
+      "id": 9
+    },
+    {
+      "user": "user",
+      "pwd": "Haslo!23",
+      "id": 10
+    },
+    {
+      "user": "user",
+      "pwd": "Haslo!23",
+      "id": 11
+    }
+  ],
+  "auth": []
+}
